@@ -23,10 +23,10 @@ body {
 }
 
 main {
-  background-image: url(../MEDIA/Black\ Background.jpg);
+  background-image: url(../MEDIA/bloques\ y\ lampara.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom;
+  background-position: left bottom;
   width: 90%;
   height: 90vh;
 }

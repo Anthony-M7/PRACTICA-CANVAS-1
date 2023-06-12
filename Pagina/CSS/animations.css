@@ -1,0 +1,20 @@
+@keyframes into-right {
+  0% {
+    opacity: 0;
+    transform: translateX(400%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0%);
+  }
+}
+@keyframes into-left {
+  0% {
+    opacity: 0;
+    transform: translateX(-400%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0%);
+  }
+}
